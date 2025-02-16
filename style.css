@@ -122,4 +122,8 @@ h1:hover {
     .excerpt {
         font-size: 14px;
     }
+
+    .img img {
+        max-height: 200px;
+    }
 }
